@@ -1,7 +1,19 @@
 # Wether_Men_Proj_1
-Project 1 Repo for Group 7: Wether Men
+##Project 1 Repo for Group 7: Wether Men
+## Group Members Hunter Gilliam, Mattew G, Emmanuel Antwi, Steven Steinbring
+###Analysis of the Joe Rogan Experience 
+Nmuber of podcast
 Longest podcast
-Shortest
+Shortest podcast
 Avg
-Most common guest
-The banned guest
+##Guest Type
+ 'comedian',
+    'phd',
+    'actor',
+    'writer',
+    'author',
+    'scientist',
+    'mma',
+    'figher',
+    'ufc'
+Frequence of Release
