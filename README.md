@@ -1,6 +1,6 @@
 # Wether_Men_Proj_1
 ##Project 1 Repo for Group 7: Wether Men
-## Group Members Hunter Gilliam, Mattew G, Emmanuel Antwi, Steven Steinbring
+## Group Members Hunter Gilliam, Matthew G, Emmanuel Antwi, Steven Steinbring
 ###Analysis of the Joe Rogan Experience 
 Nmuber of podcast
 Longest podcast
