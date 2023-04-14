@@ -1,11 +1,15 @@
 # Category Keywords
-keywords = [
+keywordsList = [
     'comedian',
     'comic',
     "phd",
     'actor',
     'writer',
     'author',
+    'mlb',
+    'nba',
+    'nhl',
+    'nfl',
     'ufc',
     'musician',
     'artist',
