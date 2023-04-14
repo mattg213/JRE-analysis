@@ -1,12 +1,31 @@
 # Category Keywords
-keywords = [
+keywordsList = [
     'comedian',
-    'phd',
+    'comic',
+    "phd",
     'actor',
     'writer',
     'author',
+    'mlb',
+    'nba',
+    'nhl',
+    'nfl',
+    'ufc',
+    'musician',
+    'artist',
+    'founder',
+    'youtuber',
+    'podcast',
+    'ceo',
+    'philanthropist',
+    'singer/songwriter',
+    'screenwriter',
     'scientist',
-    'mma',
-    'figher',
-    'ufc'
+    'co-host',
+    'journalist',
+    'entrepreneur',
+    'astrophysicist',
+    'politician',
+    'pilot',
+    'stand-up'
 ]
