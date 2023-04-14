@@ -9,5 +9,19 @@ keywords = [
     'ufc',
     'musician',
     'artist',
-    'founder'
+    'founder',
+    'youtuber',
+    'podcast',
+    'ceo',
+    'philanthropist',
+    'singer/songwriter',
+    'screenwriter',
+    'scientist',
+    'co-host',
+    'journalist',
+    'entrepreneur',
+    'astrophysicist',
+    'politician',
+    'pilot',
+    'stand-up'
 ]
