@@ -1,13 +1,13 @@
 # Category Keywords
 keywords = [
     'comedian',
-    'phd',
+    'comic',
+    "phd",
     'actor',
     'writer',
     'author',
-    'scientist',
-    'mma',
-    'figher',
     'ufc',
-    'musician'
+    'musician',
+    'artist',
+    'founder'
 ]
