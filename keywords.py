@@ -8,5 +8,6 @@ keywords = [
     'scientist',
     'mma',
     'figher',
-    'ufc'
+    'ufc',
+    'musician'
 ]
