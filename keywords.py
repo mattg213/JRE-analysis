@@ -1,5 +1,5 @@
 # Category Keywords
-keywords = [
+keywordList = [
     'comedian',
     'phd',
     'actor',
