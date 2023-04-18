@@ -6,6 +6,7 @@ keywordsList = [
     'actor',
     'writer',
     'author',
+<<<<<<< HEAD
     'mlb',
     'nba',
     'nhl',
@@ -28,4 +29,10 @@ keywordsList = [
     'politician',
     'pilot',
     'stand-up'
+=======
+    'scientist',
+    'mma',
+    'figher',
+    'ufc'
+>>>>>>> parent of 89aeabe (Separated date into separate columns)
 ]
